@@ -1,0 +1,1 @@
+{ "name": "auto-compact-200k", "version": "0.1.0", "description": "Compacts once the context passes 200k tokens, waiting for the turn to finish, and shows the size before and after" }
